@@ -1,8 +1,8 @@
 +++
-title = "About me"
+title = "About Me, Myself and I"
 draft = false
-description = ""
 image = ""
+description = "Ich führe meine Blogseite, da meine Schule mich dazu verpflichtet hat."
 +++
 ![](/img/default-author.jpg)
 
