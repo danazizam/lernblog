@@ -15,8 +15,6 @@ Heute möchte ich euch gerne einige wichtige Tipps geben, durch welche man den e
 6. Es kann sich aber auch sehr auszahlen wenn man sich einmal richtig mit der eigenen Blende auseinanderzusetzen
 7. Um eure Bilder mit einer grossen Sicherheit hochqualitativ zu behalten, kann es grade am Anfang sehr hilfreich sein den Blitz wann immer möglich wegzulassen 
 
-
-
 Nun zeige ich euch die unterschiede welche verschiedene Perspektiven ausmachen können 
 
 Normalperspektive 
@@ -34,3 +32,9 @@ Normalperspektive
 * Dadurch erscheinen die Motive optisch grösser
 
   Vogelperspektive
+
+  ![](bild-3-1-.jpg)
+
+
+* Aus der Vogelperspektive erkennen wir unser Motiv von oben
+* Dadurch wirkt dieses optisch kleiner
