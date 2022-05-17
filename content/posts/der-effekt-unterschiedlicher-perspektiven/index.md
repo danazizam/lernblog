@@ -38,3 +38,11 @@ Normalperspektive
 
 * Aus der Vogelperspektive erkennen wir unser Motiv von oben
 * Dadurch wirkt dieses optisch kleiner
+
+  Nahaufnahme
+
+  ![](bild-4-1-.jpg)
+
+
+* Bei dieser Perspektive sieht man nur einen Ausschnitt des Bildes
+* Dadurch sind viele Details erkennbar
